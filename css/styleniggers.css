@@ -1,0 +1,114 @@
+body{
+    background-color: #181818;
+    width: 100%;
+    height: 8000px;
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-family: "Oswald";
+    color: #ffffff;
+    list-style-type: none;
+    justify-content: center;
+    text-transform: uppercase;
+    padding: 0 0 0 240px;
+    font-size: 17px;
+}
+.nav__item {
+    margin-right: 120px;
+}
+.nav__link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.logo{
+    padding: 53px 0px 0px 58px;
+} 
+.nav__item__signin{
+    /* Style for "Button" */
+width: 99px;
+height: 35px;
+border: 1px solid #000000;
+background-color: #ffffff;
+display: flex;
+justify-content: center;
+
+
+
+}
+.nav__link__signin{
+    color: #181818;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    margin: 3px 0px 0px 0px;
+}
+.menulines{
+    display: flex;
+    width: 51px;
+    height: 25px;
+    margin: 5px 0px 5px 74px;
+}
+.content__block{
+    display: flex;
+    flex-direction: row;
+    width: 1414px;
+    height: 784px;
+    margin: 218px 0px 0px 59px;
+}
+.behginer__block {
+}
+.ui{
+    width: 171px;
+    height: 95px;
+    margin: 10px 0px 0px 0px;
+}
+.behginer__block__text{
+    display: flex;
+    flex-direction: column;
+    
+}
+.behginer__icon{
+    width: 33px;
+    height: 274px;
+    margin: 51px 0px 0px 0px;
+}
+.become__block{
+    width: 132px;
+    height: 37px;
+    
+}
+.become__text{
+    color: #ffffff;
+    font-family: Krub;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 25.92px;
+    text-transform: uppercase;
+}
+.become__text::before{
+    content: '';
+    width: 12px;
+    height: 12px;
+    background-color: #ffffff;
+    display: inline-block;
+    margin: 0px 8px 0px 0px;
+}
+.become__block {
+    margin: -120px 0px 0px 148px;
+}
+.niggers__block {`
+    margin: 0px 0px 0px 256px;
+    width: 307px;
+    height: 715px;
+    
+}
+.edition__block {
+   
+}
